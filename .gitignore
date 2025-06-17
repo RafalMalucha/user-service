@@ -1,0 +1,24 @@
+# Maven build output
+/target/
+
+# IDEs
+/.idea/
+/*.iml
+*.class
+
+# VS Code
+.vscode/
+.settings/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment & temp files
+.env
+*.swp
+*.bak
+*~
